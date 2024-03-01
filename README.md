@@ -16,7 +16,7 @@ pip install selenium webdriver_manager
 ## Como usar
 1. Clone ou baixe este repositório para sua máquina local.
 2. Certifique-se de ter todas as bibliotecas necessárias instaladas.
-3. Execute o script Python `web_scraping.py`.
+3. Execute o script Python `web_automation_tableTOcsv.py`.
 4. Aguarde até que o script termine de executar.
 5. O arquivo CSV resultante, `TS_table.csv`, será gerado no mesmo diretório do script.
 
